@@ -1,4 +1,4 @@
-🏨 Hospitality Revenue Analysis Dashboard
+**🏨 Hospitality Revenue Analysis Dashboard**
 📌 Project Overview
 
 This project focuses on analyzing hospitality industry data to uncover insights that drive higher bookings, improved revenue, and better customer engagement.
